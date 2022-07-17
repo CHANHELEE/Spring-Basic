@@ -11,4 +11,6 @@ import org.springframework.context.annotation.FilterType;
 )        // @Configuration 어노테이션이 붙은것을 필터링.
 public class AutoAppConfig {
 
+    //Test
+
 }
